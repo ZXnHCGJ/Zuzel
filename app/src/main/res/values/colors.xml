@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Zuzel">#272727</color>
+    <color name="Zuzel2">#FF1100</color>
+    <color name="Zuzel3">#FFBF00</color>
+    <color name="Zuzel4">#44FF00</color>
+</resources>
